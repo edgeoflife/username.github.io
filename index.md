@@ -11,7 +11,7 @@
     <p>河南三门峡</p>
     <p>这里插播一条，三门峡是天鹅之城喔，欢迎来玩儿</p>
     <p>我的照骗</p> 
-    <p>C:\Users\edge of life\Pictures\Saved Pictures</p>
+    <p></p>
     <p>年纪？ 反正王者荣耀周一也能打hiahiahia</p>
     <h2>我喜欢啥</h2>
     <p>看电影儿！（百讲放的《长津湖》没抢到票呜呜呜）</p>
