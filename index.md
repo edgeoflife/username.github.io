@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/edgeoflife/username.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edgeoflife/username.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8"/>
+    <title>小郭的第一个网页</title>
+  </head>
+  <body>
+    <h1我de基本信息</h1>
+    <p>郭心语</p>
+    <p>北京大学药学三班</p>
+    <p>河南三门峡</p>
+    <p>这里插播一条，三门峡是天鹅之城喔，欢迎来玩儿</p>
+    <p>我的照骗</p> 
+    <p>![Uploading 微信图片_20211008164149.jpg…]()</p>
+    <p>年纪？ 反正王者荣耀周一也能打hiahiahia</p>
+    <h2>我喜欢啥</h2>
+    <p>看电影儿！（百讲放的《长津湖》没抢到票呜呜呜）</p>
+    <p>最近刚发展的爱好..打游戏</p>
+    <h3>最近想干点啥</h3>
+    <p>想快点学会做网页，好难(:3_ヽ)</p>
+    <p>后悔小学没好好练打字儿，想让打字儿快一点！</p>
+  </body>
+</html>
+    
