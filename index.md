@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh-cn">
   <head>
-    <meta charset="utf-8"/>
-    <title>小郭的第一个网页</title>
+  <title>小郭的第一个网页</title>
   </head>
   <body>
     <h1我de基本信息</h1>
@@ -11,7 +10,7 @@
     <p>河南三门峡</p>
     <p>这里插播一条，三门峡是天鹅之城喔，欢迎来玩儿</p>
     <p>我的照骗</p> 
-    <p><img src=""></p>
+    <p><img src="微信图片_20211008164149.jpg "></p>
     <p>年纪？ 反正王者荣耀周一也能打hiahiahia</p>
     <h2>我喜欢啥</h2>
     <p>看电影儿！（百讲放的《长津湖》没抢到票呜呜呜）</p>
