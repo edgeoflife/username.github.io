@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="zh-cn">
   <head>
-  <title>小郭的第一个网页</title>
+  小郭的第一个网页
   </head>
   <body>
-    <h1我de基本信息</h1>
+    <h1>我de基本信息</h1>
     <p>郭心语</p>
     <p>北京大学药学三班</p>
     <p>河南三门峡</p>
