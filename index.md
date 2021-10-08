@@ -9,8 +9,8 @@
     <p><strong>●家乡:</strong>河南三门峡</p>
     <p>（这里插播一条，三门峡是天鹅之城喔，欢迎来玩儿,塞张图片儿 放大更好看哦）</p>
     <p><img src="https://bkimg.cdn.bcebos.com/pic/574e9258d109b3de889e4361ccbf6c81800a4c91?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5/format,f_auto"width="50%"></p>
-    <p>下来是我的照骗</p> 
-    <p><img src="小郭证件照.jpg"width="25%"></p>
+    <p><div>下来是我的照骗</p> 
+    <p><img src="小郭证件照.jpg"width="25%"></div></p>
     <p><strong>●年纪?</strong> 反正王者荣耀周一也能打hiahiahia</p>
     <h1>part2 我喜欢啥</h1>
     <p>●看电影儿！（百讲放的《长津湖》没抢到票呜呜呜）</p>
