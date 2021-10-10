@@ -2,8 +2,13 @@
 <html lang="zh-cn">
   <head>
   小郭的第一个网页
+    <style>
+      p {
+      color: red;
+      }
+    </style>
   </head>
-  <body>
+    <body>
     <h1>part1 我是啥</h1>
     <p><strong>●大名儿:</strong>郭心语          <strong>●班级:</strong>北京大学药学三班</p>
     <p><strong>●家乡:</strong>河南三门峡</p>
