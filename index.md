@@ -2,7 +2,7 @@
 <html lang="zh-cn">
   <head>
   小郭的第一个网页
-    <link rel="stylesheet" href="02.css">
+    <link href="02.css"rel="stylesheeet" type="text/csss">
   </head>
     <body>
     <h1>part1 我是啥</h1>
