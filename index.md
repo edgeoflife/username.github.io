@@ -25,7 +25,7 @@
     <p>（这里插播一条，三门峡是天鹅之城喔，<del>欢迎来玩儿</del>,塞张图片儿|ू･ω･` ）</p>
     <p><img src="https://www.ismx.cn/uploadfile/2017/0328/20170328094640248.jpg" width="2c05c1224e972cb53f769051d694de94  %"></p>
     <p>下来是我的照骗 </p> 
-    <p><img src="https://tse1-mm.cn.bing.net/th/id/R-C.98034a103e026e6617337f25281f279d?rik=bvYI%2f87qkTqrpw&riu=http%3a%2f%2fwww.8bb.com%2fd%2ffile%2f20200620%2f2c05c1224e972cb53f769051d694de94.gif&ehk=IsQhQcJQI2lniQMn6V6bFDhilMxJpWtxS3IMIosSG6s%3d&risl=&pid=ImgRaw&r=0"title="哈哈哈其实是猫猫" </p>
+    <p><img src="https://tse1-mm.cn.bing.net/th/id/R-C.98034a103e026e6617337f25281f279d?rik=bvYI%2f87qkTqrpw&riu=http%3a%2f%2fwww.8bb.com%2fd%2ffile%2f20200620%2f2c05c1224e972cb53f769051d694de94.gif&ehk=IsQhQcJQI2lniQMn6V6bFDhilMxJpWtxS3IMIosSG6s%3d&risl=&pid=ImgRaw&r=0" title="哈哈哈其实是猫猫"> </p>
     <p><strong>●年纪?</strong> 反正王者荣耀周一也能打hiahiahia</p>
     <hr>
     <h1>part2 我喜欢啥</h1>
