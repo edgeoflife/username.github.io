@@ -4,8 +4,7 @@
   小郭的第一个网页
     <style>
       p {
-      color: blue
-      ;
+      color: blue;
       }
     </style>
   </head>
