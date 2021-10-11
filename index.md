@@ -16,7 +16,7 @@
         margin-right: auto;
         border-width: 2px;
         border-style: solid;
-        border-color: ;
+        border-color: skyblue;
         border-radius: 5px;
         padding-left: 20px;
         padding-right: 20px;
