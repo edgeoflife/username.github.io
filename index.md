@@ -30,7 +30,7 @@
     <h1>part2 我喜欢啥</h1>
     <p>●看电影儿！（百讲放的《长津湖》没抢到票呜呜呜）</p>
     <p>再塞几张剧照😎</p>
-    <p><img src="https://tse3-mm.cn.bing.net/th/id/OIP-C.KXAB49FQJcUuBLbi9w8_cgHaEM?w=321&h=182&c=7&r=0&o=5&dpr=1.5&pid=1.7" title="天使爱美丽">
+    <p><img src="https://tse3-mm.cn.bing.net/th/id/OIP-C.KXAB49FQJcUuBLbi9w8_cgHaEM?w=321&h=182&c=7&r=0&o=5&dpr=1.5&pid=1.7" title="天使爱美丽" width="50%">
      <img src="https://img2.doubanio.com/view/photo/l/public/p524959163.webp" title="忠犬八公" width="29%"><img src="https://tse1-mm.cn.bing.net/th/id/OIP-C.xYbS7UxPsBCbUT8osUCx8AHaD9?w=331&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" title="1950他们正年轻" width="34%"></p>
     <p>●最近刚发展的爱好..<del>打游戏<del/></p>
     <p>♫看到这儿你也许累了O(∩_∩)O 放首俺最喜欢的歌在这儿♫</p>
@@ -39,5 +39,6 @@
     <h1>part3 最近想干点啥</h1>
     <p>●想快点学会做网页，好难(:3_ヽ)</p>
     <p>●后悔小学时候没好好练打字儿，想让打字儿快一点！</p>
+      <p>想要更加清楚自己的方向，日子越来越有奔头哈哈哈</p>
   </body>
 </html>
