@@ -30,7 +30,8 @@
     <h1>part2 我喜欢啥</h1>
     <p>●看电影儿！（百讲放的《长津湖》没抢到票呜呜呜）</p>
     <p>再塞几张剧照</p>
-    <p><img src="https://tse3-mm.cn.bing.net/th/id/OIP-C.KXAB49FQJcUuBLbi9w8_cgHaEM?w=321&h=182&c=7&r=0&o=5&dpr=1.5&pid=1.7" title="天使爱美丽"><img src="https://img2.doubanio.com/view/photo/l/public/p524959163.webp" title="忠犬八公" width="28%"><img src="https://tse1-mm.cn.bing.net/th/id/OIP-C.xYbS7UxPsBCbUT8osUCx8AHaD9?w=331&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" title="1950他们正年轻" width="34%"></p>
+    <p><img src="https://tse3-mm.cn.bing.net/th/id/OIP-C.KXAB49FQJcUuBLbi9w8_cgHaEM?w=321&h=182&c=7&r=0&o=5&dpr=1.5&pid=1.7" title="天使爱美丽">
+     <img src="https://img2.doubanio.com/view/photo/l/public/p524959163.webp" title="忠犬八公" width="28%"><img src="https://tse1-mm.cn.bing.net/th/id/OIP-C.xYbS7UxPsBCbUT8osUCx8AHaD9?w=331&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" title="1950他们正年轻" width="34%"></p>
     <p>●最近刚发展的爱好..<del>打游戏<del/></p>
     <p>♫看到这儿你也许累了O(∩_∩)O 放首俺最喜欢的歌在这儿♫</p>
     <p><a href="https://www.bilibili.com/video/BV1Y7411q7D6?from=search&seid=6472830990101939251&spm_id_from=333.337.0.0">蓝莲花</a></p>
