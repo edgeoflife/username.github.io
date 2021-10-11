@@ -9,7 +9,7 @@
     }
   body
   {
-    background-color: skyblue;
+    background-image: url（https://pic4.zhimg.com/v2-212bf8c1c6da02bcffce93ad5326ec7c_r.jpg）;
   }
   h1
   {
